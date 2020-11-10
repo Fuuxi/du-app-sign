@@ -1,4 +1,8 @@
 # 毒app的sign加签破解
+[foo]: http://example.com/ "Optional Title Here"
+[foo1]: SNKRS://product/CQ9327-400 "222"
+
+aa[foo1] [foo]
 
 **逆向js破解毒sign参数，获取毒app品牌列表页数据，毒app商品详情页数据，最近购买数据，搜索商品数据**<br>
 
@@ -7,9 +11,9 @@
 - Ⅱ.js2py执行生成sign的js逻辑函数 ；
 - Ⅲ.pyexejs执行生成sign的js逻辑函数；
 - Ⅳ. md5加密接口约定的post data;
-[foo]: http://example.com/ "Optional Title Here"
-[foo1]: SNKRS://product/CQ9327-400 "222"
-[foo1] [foo]
+
+
+
 
 **使用教程：**
 (废弃)   【使用请参考本教程】
