@@ -7,6 +7,9 @@
 - Ⅱ.js2py执行生成sign的js逻辑函数 ；
 - Ⅲ.pyexejs执行生成sign的js逻辑函数；
 - Ⅳ. md5加密接口约定的post data;
+[foo]: http://example.com/ "Optional Title Here"
+[foo1]: SNKRS://product/CQ9327-400 "222"
+[foo1] [foo]
 
 **使用教程：**
 (废弃)   【使用请参考本教程】
