@@ -1,9 +1,6 @@
 # 毒app的sign加签破解
-[foo]: http://example.com/ "Optional Title Here"
-[foo1]: SNKRS://product/CQ9327-400 "222"
-汇总系列：<https://www.cnblogs.com/dunitian/p/4822808.html#ai>{:target="_blank"}
-汇总系列：<a href="https://www.cnblogs.com/dunitian/p/4822808.html#ai" target="_blank">链接</a>
-aa[foo1] [foo]
+
+汇总系列：<a href="SNKRS://product/CQ9327-400" target="_blank">链接</a>
 
 **逆向js破解毒sign参数，获取毒app品牌列表页数据，毒app商品详情页数据，最近购买数据，搜索商品数据**<br>
 
