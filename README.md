@@ -1,6 +1,6 @@
 # 毒app的sign加签破解
 
-汇总系列：<a href="SNKRS://product/CQ9327-400" target="_blank">链接</a>
+汇总系列：<a href="SNKRS://product/CQ9327-400" target="_blank"></a>
 <SNKRS://product/CQ9327-400>
 
 **逆向js破解毒sign参数，获取毒app品牌列表页数据，毒app商品详情页数据，最近购买数据，搜索商品数据**<br>
